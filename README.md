@@ -3,19 +3,28 @@
 ![image](https://github.com/marwawageeh/payment-application/assets/173267798/f400a0bc-9813-429c-b74e-ae0c682a1753)
 
 
+
+
 Overview
+
+
 
 This project demonstrates a secure payment application designed using C programming language, with distinct modules for handling card operations, terminal interactions, and server communications
 
 
 
+
 Programming Language
+
+
 
 •	C: The core logic of the application is implemented in C.
 
 
 
 Components Description
+
+
 
 1. Card Module (Card.c)
 Purpose: Manages all card-related operations, including reading cardholder information and card data.
@@ -27,6 +36,8 @@ Purpose: Handles backend operations, including validating accounts, checking ava
 
 
  Workflow
+
+
  
 1.	Card Reading:
 o	Use getCardHolderName, getCardExpiryDate, and getCardPAN functions to read and encrypt card data.
