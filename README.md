@@ -5,7 +5,7 @@
 
 
 
-Overview
+#Overview
 
 
 
@@ -14,7 +14,7 @@ This project demonstrates a secure payment application designed using C programm
 
 
 
-Programming Language
+#Programming Language
 
 
 
@@ -22,7 +22,7 @@ Programming Language
 
 
 
-Components Description
+#Components Description
 
 
 
@@ -35,7 +35,7 @@ Purpose: Handles backend operations, including validating accounts, checking ava
 
 
 
- Workflow
+# Workflow
 
 
  
