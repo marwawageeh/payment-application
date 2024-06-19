@@ -1,5 +1,6 @@
 # payment-application
 
+![image](https://github.com/marwawageeh/payment-application/assets/173267798/f400a0bc-9813-429c-b74e-ae0c682a1753)
 
 
 This project demonstrates a secure payment application designed using C programming language, with distinct modules for handling card operations, terminal interactions, and server communications
