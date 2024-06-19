@@ -5,7 +5,7 @@
 
 
 
-#Overview
+# Overview
 
 
 
@@ -14,7 +14,7 @@ This project demonstrates a secure payment application designed using C programm
 
 
 
-#Programming Language
+# Programming Language
 
 
 
@@ -22,7 +22,7 @@ This project demonstrates a secure payment application designed using C programm
 
 
 
-#Components Description
+# Components Description
 
 
 
